@@ -1,0 +1,1 @@
+Each ticker model have been saved seperately
